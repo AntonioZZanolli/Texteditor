@@ -1,0 +1,13 @@
+C:\wamp64\www\ProjetosAntonio\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.exe
+C:\wamp64\www\ProjetosAntonio\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.deps.json
+C:\wamp64\www\ProjetosAntonio\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.json
+C:\wamp64\www\ProjetosAntonio\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.runtimeconfig.dev.json
+C:\wamp64\www\ProjetosAntonio\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.dll
+C:\wamp64\www\ProjetosAntonio\TextEditor\bin\Debug\netcoreapp3.1\TextEditor.pdb
+C:\wamp64\www\ProjetosAntonio\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csprojAssemblyReference.cache
+C:\wamp64\www\ProjetosAntonio\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfoInputs.cache
+C:\wamp64\www\ProjetosAntonio\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.AssemblyInfo.cs
+C:\wamp64\www\ProjetosAntonio\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.csproj.CoreCompileInputs.cache
+C:\wamp64\www\ProjetosAntonio\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.dll
+C:\wamp64\www\ProjetosAntonio\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.pdb
+C:\wamp64\www\ProjetosAntonio\TextEditor\obj\Debug\netcoreapp3.1\TextEditor.genruntimeconfig.cache
